@@ -1,0 +1,4 @@
+{
+    "command": "CI=true PORT=<port> HOST=<host> npm run dev",
+    "working_directory": "/home/kavia/workspace/code-generation/connectmatch-176323-14838/dating_app_backend"
+}
